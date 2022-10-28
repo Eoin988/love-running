@@ -262,3 +262,14 @@ hr {
 
     }
 }
+
+/*            For meduim screen 950 and down        */
+@media screen and (max-width:950px) {
+    #menu{
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-right: 20px;
+        line-height: 25px;
+    }
+}
