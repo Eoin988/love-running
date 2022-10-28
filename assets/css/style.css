@@ -261,6 +261,12 @@ hr {
         display: none;
 
     }
+    #times > div {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
+     }
 }
 
 /*            For meduim screen 950 and down        */
@@ -294,4 +300,7 @@ hr {
         padding-left: 20px;
         padding-right: 20px;
         text-align: center;
+    }
+
+    
 }
